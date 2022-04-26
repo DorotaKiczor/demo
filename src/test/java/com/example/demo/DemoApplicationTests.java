@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import static org.junit.Assert.assertEquals;
 
 @SpringBootTest
-class DemoApplicationTests {
+public class DemoApplicationTests {
 
     @org.junit.Test
     public void added() {
